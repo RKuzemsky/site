@@ -1,0 +1,33 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+img {
+	max-width: 100%;
+}
+body {
+
+}
+.title_block {
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	text-align: center;
+}
+.title_block h1 {
+	color: #000;
+	font-family: sans-serif;
+	margin: 20px 0;
+}
+.title_block p {
+	color: #000;
+	font-family: sans-serif;
+	margin: 25px 0;
+	max-width: 500px;
+	width: 500px;
+	margin: 0 auto;
+}
